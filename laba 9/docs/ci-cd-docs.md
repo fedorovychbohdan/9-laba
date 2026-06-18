@@ -29,7 +29,7 @@
 
 ## 4. Місце публікації та структура URL
 * **Хостинг:** GitHub Pages.
-* **Базова адреса:** `https://zhytariukkk.github.io/ticketing-system-docs/`.
+* **Базова адреса:** `https://github.com/fedorovychbohdan/9-laba`.
 * **Структура:**
     * `/` — Головна сторінка документації.
     * `/swagger/` — Інтерактивний API-контракт.
